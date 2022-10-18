@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers/MartinezAaddingNumbers.csproj": {}
+    "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers2/MartinezAaddingNumbers.csproj": {}
   },
   "projects": {
-    "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers/MartinezAaddingNumbers.csproj": {
+    "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers2/MartinezAaddingNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers/MartinezAaddingNumbers.csproj",
+        "projectUniqueName": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers2/MartinezAaddingNumbers.csproj",
         "projectName": "MartinezAaddingNumbers",
-        "projectPath": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers/MartinezAaddingNumbers.csproj",
+        "projectPath": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers2/MartinezAaddingNumbers.csproj",
         "packagesPath": "/Users/arelymartinez/.nuget/packages/",
-        "outputPath": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers/obj/",
+        "outputPath": "/Users/arelymartinez/Desktop/redo/MartinezAaddingNumbers2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
